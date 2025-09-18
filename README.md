@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ekklessia
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Ekklessia
+A church app demo
+>>>>>>> 2f9cfac2b545d40f3ee88d6f2768c59656095550
